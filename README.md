@@ -7,3 +7,5 @@
 > npm start
 ```
 ### SparkLines(React charts) for visualizing weather data for a time period
+
+![alt text](Capture.PNG)
